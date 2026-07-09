@@ -1,0 +1,7 @@
+frontend/node_modules/
+
+backend/snapshots/
+__pycache__/
+*.pyc
+backend/videos/*
+!backend/videos/.gitkeep

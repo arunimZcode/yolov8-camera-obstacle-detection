@@ -1,0 +1,1802 @@
+[
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:58:12.914963",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.759,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499292.jpg"
+  },
+  {
+    "camera": "cam-03",
+    "camera_id": "cam-03",
+    "timestamp": "2026-07-08T13:58:11.831139",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.728,
+    "snapshot": "snapshots\\cam-03_Human_Detected_1783499291.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:58:11.553027",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.801,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499291.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:58:11.351114",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.796,
+    "snapshot": "snapshots\\cam-05_Human_Detected_1783499291.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:58:11.330691",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.842,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499291.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:58:11.104182",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.88,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499291.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:58:10.455664",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.86,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499290.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:58:09.892126",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.902,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499289.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:58:09.681332",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.714,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499289.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:58:08.833158",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.428,
+    "snapshot": "snapshots\\cam-10_Vehicle_Detected_1783499288.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:58:07.526657",
+    "event_type": "Vehicle Detected",
+    "detected_class": "bus",
+    "confidence": 0.466,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499287.jpg"
+  },
+  {
+    "camera": "cam-03",
+    "camera_id": "cam-03",
+    "timestamp": "2026-07-08T13:58:06.099640",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.724,
+    "snapshot": "snapshots\\cam-03_Human_Detected_1783499286.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:58:05.859767",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.862,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499285.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:58:05.717071",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.7,
+    "snapshot": "snapshots\\cam-05_Human_Detected_1783499285.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:58:05.701984",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.839,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499285.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:58:05.520762",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.881,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499285.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:58:05.256400",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.879,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499285.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:58:04.881326",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.916,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499284.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:58:04.713326",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.776,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499284.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:58:02.661221",
+    "event_type": "Vehicle Detected",
+    "detected_class": "bus",
+    "confidence": 0.486,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499282.jpg"
+  },
+  {
+    "camera": "cam-03",
+    "camera_id": "cam-03",
+    "timestamp": "2026-07-08T13:58:01.375065",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.718,
+    "snapshot": "snapshots\\cam-03_Human_Detected_1783499281.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:58:01.138762",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.806,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499281.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:58:00.935095",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.823,
+    "snapshot": "snapshots\\cam-05_Human_Detected_1783499280.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:58:00.919872",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.825,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499280.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:58:00.734167",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.901,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499280.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:58:00.487001",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.854,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499280.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:58:00.068814",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.896,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499280.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:59.867370",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.831,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499279.jpg"
+  },
+  {
+    "camera": "cam-03",
+    "camera_id": "cam-03",
+    "timestamp": "2026-07-08T13:57:56.704458",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.695,
+    "snapshot": "snapshots\\cam-03_Human_Detected_1783499276.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:56.426359",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.75,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499276.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:56.263953",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.821,
+    "snapshot": "snapshots\\cam-05_Human_Detected_1783499276.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:56.249903",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.83,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499276.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:56.040701",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.898,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499275.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:55.692372",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.843,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499275.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:55.007738",
+    "event_type": "Vehicle Detected",
+    "detected_class": "bus",
+    "confidence": 0.45,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499274.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:54.990115",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.89,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499274.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:54.831099",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.708,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499274.jpg"
+  },
+  {
+    "camera": "cam-03",
+    "camera_id": "cam-03",
+    "timestamp": "2026-07-08T13:57:51.633861",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.663,
+    "snapshot": "snapshots\\cam-03_Human_Detected_1783499271.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:51.404044",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.826,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499271.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:51.256381",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.743,
+    "snapshot": "snapshots\\cam-05_Human_Detected_1783499271.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:51.244772",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.828,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499271.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:51.084564",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.911,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499271.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:50.854906",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.847,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499270.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:50.201614",
+    "event_type": "Vehicle Detected",
+    "detected_class": "bus",
+    "confidence": 0.513,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499270.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:50.184513",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.88,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499270.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:49.969945",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.728,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499269.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:57:48.659220",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.45,
+    "snapshot": "snapshots\\cam-10_Human_Detected_1783499268.jpg"
+  },
+  {
+    "camera": "cam-03",
+    "camera_id": "cam-03",
+    "timestamp": "2026-07-08T13:57:48.368709",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.694,
+    "snapshot": "snapshots\\cam-03_Human_Detected_1783499268.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:48.141008",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.817,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499268.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:47.996132",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.795,
+    "snapshot": "snapshots\\cam-05_Human_Detected_1783499267.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:47.983165",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.828,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499267.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:47.774386",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.915,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499267.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:47.504423",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.86,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499267.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:47.053344",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.862,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499267.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:46.888226",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.699,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499266.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:57:45.319726",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.485,
+    "snapshot": "snapshots\\cam-10_Human_Detected_1783499265.jpg"
+  },
+  {
+    "camera": "cam-03",
+    "camera_id": "cam-03",
+    "timestamp": "2026-07-08T13:57:45.030994",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.619,
+    "snapshot": "snapshots\\cam-03_Human_Detected_1783499264.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:44.743100",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.824,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499264.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:44.563370",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.742,
+    "snapshot": "snapshots\\cam-05_Human_Detected_1783499264.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:44.542563",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.826,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499264.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:44.281290",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.91,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499264.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:43.997448",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.891,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499263.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:43.428806",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.401,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499263.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:40.750649",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.866,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499260.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:40.578273",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.804,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499260.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:57:39.594891",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.42,
+    "snapshot": "snapshots\\cam-10_Human_Detected_1783499259.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:39.092616",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.869,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499259.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:38.913166",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.829,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499258.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:38.620846",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.909,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499258.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:38.282606",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.9,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499258.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:37.642635",
+    "event_type": "Vehicle Detected",
+    "detected_class": "bus",
+    "confidence": 0.518,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499257.jpg"
+  },
+  {
+    "camera": "cam-03",
+    "camera_id": "cam-03",
+    "timestamp": "2026-07-08T13:57:36.151110",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.425,
+    "snapshot": "snapshots\\cam-03_Human_Detected_1783499256.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:35.839730",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.838,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499255.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:35.609051",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.832,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499255.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:35.401564",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.907,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499255.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:35.136881",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.891,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499255.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:34.718699",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.88,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499254.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:34.527549",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.778,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499254.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:30.859671",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.81,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499250.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:30.688392",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.836,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499250.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:30.495733",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.896,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499250.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:30.227887",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.897,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499250.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:29.778500",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.895,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499249.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:29.620589",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.775,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499249.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:26.138373",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.731,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499246.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:25.959999",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.835,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499245.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:25.747612",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.901,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499245.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:25.434757",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.894,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499245.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:24.809028",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.91,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499244.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:24.636967",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.801,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499244.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:22.907917",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.709,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499242.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:22.701462",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.835,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499242.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:22.452573",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.906,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499242.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:22.116233",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.895,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499242.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:21.680580",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.911,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499241.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:21.527683",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.814,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499241.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:17.767983",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.736,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499237.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:17.617648",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.837,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499237.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:17.416979",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.921,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499237.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:17.187543",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.894,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499237.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:16.740844",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.911,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499236.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:16.499033",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.759,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499236.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:57:12.932068",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.404,
+    "snapshot": "snapshots\\cam-10_Human_Detected_1783499232.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:12.430831",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.751,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499232.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:12.251579",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.833,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499232.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:12.041637",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.918,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499231.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:11.731990",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.895,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499231.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:11.295532",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.89,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499231.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:11.095161",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.697,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499231.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:09.388047",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.783,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499229.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:09.211016",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.832,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499229.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:08.922437",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.919,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499228.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:08.661363",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.896,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499228.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:08.240976",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.444,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499228.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:08.217234",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.885,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499228.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:08.054507",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.7,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499228.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:06.294541",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.781,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499226.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:06.124918",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.831,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499226.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:05.911473",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.922,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499225.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:05.638873",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.892,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499225.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:05.079733",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.887,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499225.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:04.866296",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.692,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499224.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:57:03.712123",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.438,
+    "snapshot": "snapshots\\cam-10_Human_Detected_1783499223.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:02.858488",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.784,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499222.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:57:02.456175",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.83,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499222.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:02.157745",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.92,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499222.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:57:01.408657",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.898,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499221.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:00.733062",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.486,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499220.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:57:00.714525",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.887,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499220.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:57:00.511271",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.721,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499220.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:57.099350",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.433,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499217.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:56:56.086706",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.401,
+    "snapshot": "snapshots\\cam-10_Human_Detected_1783499216.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:55.609400",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.806,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499215.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:56:55.458491",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.829,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499215.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:55.273326",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.924,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499215.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:55.009930",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.889,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499214.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:54.548724",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.88,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499214.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:54.373959",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.842,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499214.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:50.705498",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.791,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499210.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:56:50.552578",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.83,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499210.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:50.358946",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.921,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499210.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:49.975070",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.88,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499209.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:49.523785",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.872,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499209.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:49.373221",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.822,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499209.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:47.175673",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.403,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499207.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:45.746297",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.831,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499205.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:56:45.599253",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.842,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499205.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:45.401580",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.92,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499205.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:45.142395",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.881,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499205.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:44.728055",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.866,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499204.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:44.574500",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.769,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499204.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:42.619548",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.816,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499202.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:56:42.443531",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.838,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499202.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:42.239094",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.918,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499202.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:41.864278",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.891,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499201.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:41.122278",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.867,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499201.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:40.950619",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.75,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499200.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:38.455207",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.797,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499198.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:56:38.193020",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.842,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499198.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:37.871932",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.918,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499197.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:37.408947",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.901,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499197.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:36.627578",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.422,
+    "snapshot": "snapshots\\cam-11_Vehicle_Detected_1783499196.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:36.589660",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.867,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499196.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:36.316294",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.787,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499196.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:56:34.877611",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.427,
+    "snapshot": "snapshots\\cam-10_Vehicle_Detected_1783499194.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:34.125598",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.828,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499194.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:56:33.854451",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.85,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499193.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:33.550770",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.917,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499193.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:33.113910",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.904,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499193.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:32.356514",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.869,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499192.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:32.089594",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.826,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499192.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:56:30.693402",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.445,
+    "snapshot": "snapshots\\cam-10_Vehicle_Detected_1783499190.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:29.831434",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.818,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499189.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:56:29.569693",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.855,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499189.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:29.260606",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.916,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499189.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:28.822744",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.898,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499188.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:28.080955",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.873,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499188.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:27.783775",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.817,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499187.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:56:26.178975",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.507,
+    "snapshot": "snapshots\\cam-10_Vehicle_Detected_1783499186.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:25.271024",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.853,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499185.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:56:24.997981",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.84,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499184.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:24.691191",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.913,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499184.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:24.210810",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.908,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499184.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:23.470773",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.872,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499183.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:23.119799",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.824,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499183.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:56:21.664581",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.46,
+    "snapshot": "snapshots\\cam-10_Vehicle_Detected_1783499181.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:20.796144",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.861,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499180.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:56:20.529964",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.813,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499180.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:20.206052",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.908,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499180.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:19.756276",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.911,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499179.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:19.038723",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.885,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499178.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:18.773268",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.849,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499178.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:56:17.210015",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.491,
+    "snapshot": "snapshots\\cam-10_Vehicle_Detected_1783499177.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:16.362703",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.82,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499176.jpg"
+  },
+  {
+    "camera": "cam-05",
+    "camera_id": "cam-05",
+    "timestamp": "2026-07-08T13:56:16.104328",
+    "event_type": "Vehicle Detected",
+    "detected_class": "truck",
+    "confidence": 0.778,
+    "snapshot": "snapshots\\cam-05_Vehicle_Detected_1783499176.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:15.788748",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.908,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499175.jpg"
+  },
+  {
+    "camera": "cam-04",
+    "camera_id": "cam-04",
+    "timestamp": "2026-07-08T13:56:15.372469",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.915,
+    "snapshot": "snapshots\\cam-04_Human_Detected_1783499175.jpg"
+  },
+  {
+    "camera": "cam-11",
+    "camera_id": "cam-11",
+    "timestamp": "2026-07-08T13:56:14.691669",
+    "event_type": "Human Detected",
+    "detected_class": "person",
+    "confidence": 0.875,
+    "snapshot": "snapshots\\cam-11_Human_Detected_1783499174.jpg"
+  },
+  {
+    "camera": "cam-02",
+    "camera_id": "cam-02",
+    "timestamp": "2026-07-08T13:56:14.421193",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.869,
+    "snapshot": "snapshots\\cam-02_Vehicle_Detected_1783499174.jpg"
+  },
+  {
+    "camera": "cam-10",
+    "camera_id": "cam-10",
+    "timestamp": "2026-07-08T13:56:13.035662",
+    "event_type": "Vehicle Detected",
+    "detected_class": "car",
+    "confidence": 0.435,
+    "snapshot": "snapshots\\cam-10_Vehicle_Detected_1783499172.jpg"
+  }
+]
